@@ -66,6 +66,7 @@ print()
      
 # Every word that shows up more than 500 times, and how many times that word shows up throughout the book (see the "Walkthrough" section for an example)
 
+print("The following words show up 500 or more times:")
 # From your word list that counts word frequency
 for key, value in wordList.items():
 
